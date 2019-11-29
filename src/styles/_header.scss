@@ -1,15 +1,9 @@
 #particles-js {
-  background: {
-    image: url(https://i.goopics.net/YwnvJ.png);
-    z-index: 1;
-      repeat: no-repeat;
-      color: black;
-      size: cover;
-  }
   display: flex;
   vertical-align: bottom;
   width: 100%;
   min-height: 100vh;
+  background-image: url("https://i.goopics.net/YwnvJ.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
