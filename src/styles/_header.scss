@@ -1,7 +1,7 @@
 #particles-js {
   background: {
     image: url(https://i.goopics.net/YwnvJ.png);
-   position: bottom;
+    z-index: 1;
       repeat: no-repeat;
       color: black;
       size: cover;
@@ -20,7 +20,7 @@
 }
 
 .header {
-  z-index: 1;
+  z-index: 2;
   text-align: center;
   color:#FFF;
   position: absolute;
