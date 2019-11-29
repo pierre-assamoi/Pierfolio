@@ -1,5 +1,6 @@
 #particles-js {
-  background: $main;
+  background: 
+    image: url(https://i.goopics.net/YwnvJ.png);
   display: flex;
   vertical-align: bottom;
   width: 100%;
@@ -14,12 +15,6 @@
 }
 
 .header {
-  {background-image: url("../../assets/img/BG.png");
-  -webkit-bacground-size: cover;
-  background-size: cover;
-  background-position: center center;
-  height: 100vh;
-  width: 100%;}
   z-index: 1;
   text-align: center;
   color:#FFF;
