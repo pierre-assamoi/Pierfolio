@@ -1,6 +1,11 @@
 #particles-js {
-  background: 
+  background: {
     image: url(https://i.goopics.net/YwnvJ.png);
+   position: bottom;
+      repeat: no-repeat;
+      color: black;
+      size: cover;
+  }
   display: flex;
   vertical-align: bottom;
   width: 100%;
