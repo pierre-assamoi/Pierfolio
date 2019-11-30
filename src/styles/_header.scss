@@ -6,7 +6,11 @@
   background-image: url("https://i.goopics.net/YwnvJ.png"); 
   background-repeat: no-repeat; 
   background-size: cover; 
-  background-position: 50% 50%; 
+  background-position: 50% 50%;
+  .particles-js-canvas-el {
+    width:100% !important;
+    height:100vh !important;
+  }
 }
 
 .header {
